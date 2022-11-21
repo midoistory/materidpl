@@ -1,0 +1,49 @@
+--------------
+
+//Pengertian Git
+    merupakan version control system yang bertugas mancatat perubahan seluruh file 
+atau repository suatu project.
+
+// manfaat Git
+- Mesin waktu dari kode yang dituliskan di dalam folder (repository)
+- Menyimpan riwayat perubahan file dalam bentuk sejumlah commit, bahkan bisa melihat 
+dilakukan oleh siapa dan kapan
+- Bisa membuat cabang dari fitur kode yang akan dibuat, tanpa perlu dilakukan di tempat 
+utama yang kita miliki, disebut dengan istilah branch
+
+// Istilah pada Git
+repo(sitory) = Folder project kita berada
+remote = sumber lain yang memiliki repo, di luar komputer kita
+clone = mengambil repo dari sumber remote
+commit = menyimpan / merekam (snapshot) kode dari repo
+branch = cabang dari sebuah commit
+checkout = proses untuk berpindah dari satu commit / satu cabang ke commit / cabang lainnya
+merge = proses untuk menggabungkan branch
+push = mengirimkan commit ke repo (biasanya remote repo)
+pull = mengambil commit dari repo (biasanya remote repo)
+
+--------------
+
+//Pengertian Github
+    merupakan manajemen project, sistem versioning code, sekaligus platform jaringan 
+sosial bagi para developer seluruh dunia. github adalah layanan cloud untuk menyimpan 
+dan mengelola sebuah project yang dinamakan repository (repo git).
+
+// manfaat Github
+- Sebuah layanan komputasi awan untuk menyimpan & mengelola repositori git
+- Diakuisisi oleh Microsoft pada tahun 2018
+- Bisa menaruh unlimited proyek yang bersifat publik maupun privat
+
+// Istilah dalam GitHub
+fork(ing) = membuat kopi / duplikat dari repo publik orang lain (beserta rekam jejaknya)
+(sebagai jembatan antara repo original dengan repo yang diduplikat)
+pull request = permintaan untuk menggabungkan (merge) kode
+(umumnya digunakan ketika ingin menggabungkan kode repo kita ke repo sumber fork)
+Demo
+Mohon registrasi github terlebih dahulu pada link ini
+
+--------------
+
+Git dan Github berbeda tapi saling berkesinambungan
+Git remote nya sedangkan Github adalah penyimpanannya
+
